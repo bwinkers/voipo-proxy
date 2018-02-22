@@ -1,0 +1,19 @@
+{
+  "name": "voipo-proxy",
+  "version": "0.1.0",
+  "description": "Proxy to provide private labeling of cp.voipwelcome.com",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "http-proxy": "^1.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "VOIPo"
+  ],
+  "author": "Brian Winkers",
+  "license": "ISC"
+}
